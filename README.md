@@ -1,4 +1,4 @@
-# Projeto feito em conjunto com o professor do curso de [JavaScript: métodos de array]([https://cursos.alura.com.br/course/javascript-entendendo-promises-async-await](https://cursos.alura.com.br/course/javascript-metodos-array)) da Alura.
+# Projeto feito em conjunto com o professor do curso de [JavaScript: métodos de array](https://cursos.alura.com.br/course/javascript-metodos-array) da Alura.
 
 ## Conteúdos abordados:
 - Aprender a utilizar os principais métodos de array do JavaScript;
